@@ -42,3 +42,5 @@ ID: $id
   }
 }
 ```
+
+![Превью сообщения](https://github.com/KrykiZZ/Kuro-Bot/blob/master/welcome_preview.png)
